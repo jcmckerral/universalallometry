@@ -1,4 +1,4 @@
-# MATLAB code accompanying paper
+# Code appendix
 Code to generate the figures in the manuscript "Universal Allometry from Empirical Parameters"
 
 ### Instructions for use
