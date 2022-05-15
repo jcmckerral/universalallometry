@@ -16,7 +16,7 @@ ax = ancestor(h, 'axes');
 ax.XAxis.FontSize = 6.5;
 ax.YAxis.FontSize = 6.5;
 xlim(ax,[1E-13,1E10]);
-ylim(ax,[1E-15,1E7]);
+ylim(ax,[1E-13,1E10]);
 
 
 
